@@ -1,9 +1,9 @@
-# Spring Boot File Upload example - Multipart File
+# Spring Boot File Upload example - Multipart File and save in cloud
 
-Our Spring Boot Application will provide APIs for:
+This Spring Boot Application will provide APIs for:
 - uploading File to a Cloud Server: case of Cloudinary
 - downloading File from Cloudinary using link
-- deleting File using publicId
+- deleting File
 
 ## Run Spring Boot application
 ```
